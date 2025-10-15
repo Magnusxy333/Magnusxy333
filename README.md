@@ -16,8 +16,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display: inline_block"><br>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<div style="display: inline_block; text-decoration: none;" ><br>
+  <a  href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a> 
   
