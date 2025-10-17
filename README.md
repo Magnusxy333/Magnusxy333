@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <h1 align="center">I'm Kauã 👋</h1>
 <h3 align="center">A beginner Web developer from Brazil</h3>
