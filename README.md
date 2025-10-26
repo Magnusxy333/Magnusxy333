@@ -37,3 +37,12 @@
   &nbsp; &nbsp;
   <img alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+ 
+</p>
