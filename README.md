@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kau%C3%A3-carlos-293a112a9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" height="50" width="60" /></a>
+<a href="https://www.linkedin.com/in/kau%C3%A3-carlos-293a112a9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" height="100" width="120" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
