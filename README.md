@@ -41,9 +41,9 @@
 <h3 align="left">Languages and Tools:</h3>
   
   
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
           
-  <i class="devicon-html5-plain-wordmark colored"></i>
           
           
  
