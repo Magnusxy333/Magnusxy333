@@ -26,6 +26,8 @@
   &nbsp; &nbsp;
   <img alt="Tailwind CSS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   &nbsp; &nbsp;
+  <img alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /> 
+  &nbsp; &nbsp;
   <img alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   &nbsp; &nbsp;
   <img alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
