@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
   
-  <p align="middle">
+  <div align="middle">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40" />
@@ -37,7 +37,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
     
-</p>
+</div>
  
   
  
